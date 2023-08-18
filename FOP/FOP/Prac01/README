@@ -1,0 +1,19 @@
+## Synopsis
+Practical 1 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README - readme file for Practical 1
+num_convert.py - Read in number and convert to int and float
+num_for.py - Read in numbers and gives the sum of input numbers, using for loop
+num_while.py - Read a list of numbers (Zero to exit) and give the sum of numbers, using while loop
+And/Now/for/Something/Completely/Different/growth.py - simulation for an unconstrained growth model
+Monty/Pythons/which.py - asks questions to find your python, if_elif_else + nesting
+Monty/Pythons/Flying/Circus/Bruces.py - let's call everyone Bruce, how to use if_else control structure
+The/Holy/Grail/bridge.py - Recreates a scene from the holy grail using user input
+The/Holy/Grail/bridge2.py - A scene from the holy grail, re-coded
+
+## Dependencies
+none
+
+## Version information
+28_07_2023 - initial version of Practical 1 programs
